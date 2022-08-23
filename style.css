@@ -1,0 +1,10 @@
+
+.center{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.btn{
+    padding: 15px;
+    background-color: aquamarine;
+}
